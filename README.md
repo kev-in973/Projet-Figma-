@@ -2,7 +2,7 @@
 
 Ce repository contient les wireframes et prototypes pour le projet de site web.
 
-## Lien vers le fichier Figma 
+## Lien vers le fichier Figma https://www.figma.com/design/mDOOctgEOeeRvC21NYDepi/Untitled?node-id=6-513&t=h1P8sZgLX0e2MVaO-1
 
 ![Accueil](https://github.com/user-attachments/assets/d539ead1-7718-4204-93cf-adf2d6545a23)
 ![Produit](https://github.com/user-attachments/assets/b2c3fe07-9276-4585-938d-51cfa6b1b2b4)
